@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMethod", "TemplateMethod\TemplateMethod.vcxproj", "{8185BA35-29A9-42B5-A615-98F00B028D31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Visitor", "Visitor\Visitor.vcxproj", "{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{8185BA35-29A9-42B5-A615-98F00B028D31}.Release|x64.Build.0 = Release|x64
 		{8185BA35-29A9-42B5-A615-98F00B028D31}.Release|x86.ActiveCfg = Release|Win32
 		{8185BA35-29A9-42B5-A615-98F00B028D31}.Release|x86.Build.0 = Release|Win32
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Debug|x64.ActiveCfg = Debug|x64
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Debug|x64.Build.0 = Debug|x64
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Debug|x86.Build.0 = Debug|Win32
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Release|x64.ActiveCfg = Release|x64
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Release|x64.Build.0 = Release|x64
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Release|x86.ActiveCfg = Release|Win32
+		{CDC264F2-C7A9-4EF8-A83F-962B7BD2CE51}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
